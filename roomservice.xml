@@ -4,14 +4,13 @@
   <!-- Samsung Exynos 9810 Device Manifest
        * For use with PixelExperience / PixelExperience-based ROMs -->
 
-  <!--Device tree-->
-  <project name="WindowsDev2021/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" revision="twelve-noencrypt" remote="github"/>
-  <project name="WindowsDev2021/android_device_samsung_crownlte" path="device/samsung/crownlte" revision="twelve" remote="github"/>
-  <!--Blobs-->
-  <project name="Sexynos/android_vendor_samsung_exynos9810-common" path="vendor/samsung/exynos9810-common" revision="twelve" remote="github"/>
-  <project name="Sexynos/android_vendor_samsung_crownlte" path="vendor/samsung/crownlte" revision="twelve" remote="github"/>
-  <!--Kernel-->
-  <project name="Sexynos/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="twelve" remote="github"/>
-  <!--SLSI-->
-  <project name="Sexynos/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="twelve" remote="github"/>
+<project name="knaik95/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-16.0" />
+<project name="WindowsDev2021/android_device_samsung_klte" path="device/samsung/klte" remote="github" revision="lineage-16.0" />
+<project name="WindowsDev2021/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="lineage-16.0" />
+<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0" />
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+<project name="WindowsDev2021/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="lineage-16.0" />
+<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
+<project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-16.0"/>
+<project name="WindowsDev2021/android_kernel_samsung_msm8974" path="kernel/samsung/msm8974" remote="github" revision="lineage-16.0"/>
 </manifest>

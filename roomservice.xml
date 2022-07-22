@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <!-- Samsung Exynos 9810 Device Manifest
-       * For use with PixelExperience / PixelExperience-based ROMs -->
-
-  <!--Device tree-->
   <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-19.1" remote="github"/>
   <project name="WindowsDev2021/device_xiaomi_davinci" path="device/xiaomi/davinci" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
-  <project name="vantoman/kernel_xiaomi_sm6150" path="kernel/xiaomi/davinci" revision="12.1" remote="github"/>
+  <project name="DerpFest-Devices/kernel_xiaomi_sm6150" path="kernel/xiaomi/davinci" revision="12.1" remote="github"/>
 </manifest>

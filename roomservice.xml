@@ -11,5 +11,4 @@
   <project name="PotatoDevices/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
   <project name="vantoman/kernel_xiaomi_sm6150" path="kernel/xiaomi/davinci" revision="12.1" remote="github"/>
-  <project name="DarkDampSquib/vendor_MiuiCamera" path="vendor/miuicamera" revision="ten" remote="github"/>
 </manifest>

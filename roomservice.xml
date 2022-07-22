@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" revision="lineage-19.1" remote="github"/>
+  <project name="adi8900/hardware_xiaomi" path="hardware/xiaomi" revision="derp" remote="github"/>
   <project name="WindowsDev2021/device_xiaomi_davinci" path="device/xiaomi/davinci" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/vendor_xiaomi_davinci" path="vendor/xiaomi/davinci" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/device_xiaomi_sm6150-common" path="device/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
   <project name="PotatoDevices/vendor_xiaomi_sm6150-common" path="vendor/xiaomi/sm6150-common" revision="frico_mr1-release" remote="github"/>
-  <project name="DerpFest-Devices/kernel_xiaomi_sm6150" path="kernel/xiaomi/davinci" revision="12.1" remote="github"/>
+  <project name="DerpFest-Devices/kernel_xiaomi_sm6150" path="kernel/xiaomi/sm6150" revision="12.1" remote="github"/>
 </manifest>
